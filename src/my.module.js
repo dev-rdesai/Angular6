@@ -18,7 +18,7 @@ MyComponent = __decorate([
         encapsulation: core_1.ViewEncapsulation.None,
         selector: 'my-component',
         templateUrl: 'https://raw.githubusercontent.com/ravalnath/Angular6/master/src/my.module.html',
-        styleUrls:['https://raw.githubusercontent.com/ravalnath/Angular6/master/src/module.css']
+        style:[`div{width:250px;height:500px;background-color:blue}`]
     })
 ], MyComponent);
 exports.MyComponent = MyComponent;
