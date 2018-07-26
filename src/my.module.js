@@ -15,7 +15,6 @@ var MyComponent = (function () {
 }());
 MyComponent = __decorate([
     core_1.Component({
-        encapsulation: core_1.ViewEncapsulation.None,
         selector: 'my-component',
         templateUrl: 'https://raw.githubusercontent.com/ravalnath/Angular6/master/src/my.module.html',
         style:[`div{width:250px;height:500px;background-color:blue}`]
