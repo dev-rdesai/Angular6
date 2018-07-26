@@ -15,10 +15,10 @@ var MyComponent = (function () {
 }());
 MyComponent = __decorate([
     core_1.Component({
+        encapsulation: core_1.ViewEncapsulation.None,
         selector: 'my-component',
         templateUrl: 'https://raw.githubusercontent.com/ravalnath/Angular6/master/src/my.module.html',
         styleUrls:['https://raw.githubusercontent.com/ravalnath/Angular6/master/src/module.css']
-        
     })
 ], MyComponent);
 exports.MyComponent = MyComponent;
