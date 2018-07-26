@@ -16,7 +16,7 @@ var MyComponent = (function () {
 MyComponent = __decorate([
     core_1.Component({
         selector: 'my-component',
-        templateUrl: './my.module.html'
+        templateUrl: 'my.module.html'
     })
 ], MyComponent);
 exports.MyComponent = MyComponent;
