@@ -17,7 +17,7 @@ MyComponent = __decorate([
     core_1.Component({
         selector: 'my-component',
         templateUrl: 'https://raw.githubusercontent.com/ravalnath/Angular6/master/src/my.module.html',
-        styleUrls:['https://raw.githubusercontent.com/ravalnath/Angular6/master/src/module.css']
+        styleUrls:['raw.githubusercontent.com/ravalnath/Angular6/master/src/module.css']
     })
 ], MyComponent);
 exports.MyComponent = MyComponent;
