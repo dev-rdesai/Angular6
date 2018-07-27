@@ -16,7 +16,7 @@ var MyComponent = (function () {
 MyComponent = __decorate([
     core_1.Component({
         selector: 'my-component',
-        templateUrl: './my.module.html',
+        templateUrl: 'https://raw.githubusercontent.com/ravalnath/Angular6/master/src/my.module.html',
         style:['div{width:250px;height:500px;background-color:blue}']
         
     })
